@@ -13,5 +13,10 @@ public class GitHubExample {
         int n = 4;
         System.out.println(m+n);
         System.out.println("Done with codes for version2");
+
+        // codes for version3
+        String a = "apple";
+        String b = "pear";
+        System.out.println("apple + pear");
     }
 }
