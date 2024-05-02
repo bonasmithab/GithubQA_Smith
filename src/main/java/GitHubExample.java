@@ -7,5 +7,11 @@ public class GitHubExample {
         int y = 2;
         System.out.println(x+y);
         System.out.println("Done with codes for version1");
+
+        // codes for version2
+        int m = 3;
+        int n = 4;
+        System.out.println(m+n);
+        System.out.println("Done with codes for version2");
     }
 }
