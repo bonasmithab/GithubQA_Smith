@@ -10,11 +10,9 @@ public class testExcercise1 {
         double num1 = input.nextDouble();
         double num2 = input.nextDouble();
         double result;
-        String c =
+        String c;
 
-        if(c == "+"){
-            System.out.println(num1 + num2);
-        }
+       // if(c == "+")
 
     }
 }
